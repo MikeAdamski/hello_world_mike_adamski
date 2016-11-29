@@ -4,5 +4,5 @@ Learning exercise #1
 I'm going to add some text.
 
 This is **bold**
-Or --strikethrough--
+Or -strikethrough-
 :smile:
